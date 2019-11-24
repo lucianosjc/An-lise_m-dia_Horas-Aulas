@@ -5,6 +5,6 @@ Analise de Dados obtendo a média Horas-Aulas do Ensino Médio, ano base 2010, u
 Jacati - PE
 Brasilia - DF
 
-# pip install -r requirements.txt
+#pip install -r requirements.txt
 
 $ jupyter notebook
