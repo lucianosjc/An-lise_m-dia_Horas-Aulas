@@ -1,6 +1,0 @@
-pandas as pd
-numpy as np
-matplotlib.pyplot as plt
-plotly.graph_objs as go
-plotly.offline as py
-statistics
